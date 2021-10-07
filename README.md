@@ -14,8 +14,8 @@
 |        jQuery         |
 |         HTML          |
 |         CSS           |
-|       Bootstrap       |
-|       MySql       |
+|       Bootstrap5      |
+|         MySql         |
 
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
