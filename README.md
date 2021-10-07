@@ -8,8 +8,14 @@
 | Languages & Abilities |
 |-----------------------|
 |        Java           |
-|       JFrame          |
-|       SQLite          |
+|       Servlet         |
+|       Hibernate       |
+|      JavaScript       |
+|        jQuery         |
+|         HTML          |
+|         CSS           |
+|       Bootstrap       |
+|       MySql       |
 
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
