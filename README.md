@@ -1,1 +1,1 @@
-# Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project
+# Java Hibernate Servlet JavaScript jQuery Warehouse Tracking Project
