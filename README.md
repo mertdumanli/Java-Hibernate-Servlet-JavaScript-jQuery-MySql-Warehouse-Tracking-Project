@@ -56,10 +56,7 @@
   
 <a href="https://github.com/mertdumanlicse/Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project/blob/main/images/13.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project/blob/main/images/13.jpg" width="240" style="max-width:100%;"></a>
-  
-<a href="https://github.com/mertdumanlicse/Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project/blob/main/images/14.jpg" target="_blank">
-<img src="https://github.com/mertdumanlicse/Java-Hibernate-Servlet-JavaScript-jQuery-Warehouse-Tracking-Project/blob/main/images/14.jpg" width="240" style="max-width:100%;"></a>
-  
+
   </p>
     
 ### Contact Me For More Information  
