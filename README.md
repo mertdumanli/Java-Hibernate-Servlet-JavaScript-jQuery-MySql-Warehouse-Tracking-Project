@@ -14,7 +14,7 @@
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
-| **admin**| **admin**|
+| **``admin@mail.com``**| **12**|
 
 ## Application Images
 <p>
