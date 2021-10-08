@@ -1,4 +1,4 @@
-# Java Hibernate Servlet JavaScript jQuery Warehouse Tracking Project
+# Java Hibernate Servlet JavaScript jQuery MySql Warehouse Tracking Project
 
 * Depo takip projesi olan bu projede, yönetici sistemlerine müşteri ve stok ürünü gibi bilgilerini girebilmekte. Müşterilerin siparişlerini kayıt altına alabilmekte ve ödemelerini yapmalarını sağlamaktadır. Kasadan para çıkışlarını kayıt altına alabilmektedir. Tüm bunları belli bir düzen içerisinde yaparken belirli sonuçları göstererek belli fikirlerin alınabilmesini sağlamaktadır. Bu projede veri tabanı olarak **MySql** kullanılmıştır. **Front-end** tarafında **HTML**, **CSS** dilleri kullanılmıştır. Ayrıca görüntünün iyileştirilmesi amacıyla **Bootstrap**’te başvurulmuştur. **Back-end** tarafı **Java**, **JavaScript**  dillleriyle yazılmıştır. Java tarafında yazılırken **Hibernate** ve **Java Servlet** kullanılmıştır. **JavaScript** tarafında **jQuery** kullanılmıştır. (**jQuery**’de **Ajax** yöntemleri)
 
